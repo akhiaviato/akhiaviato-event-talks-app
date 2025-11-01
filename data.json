@@ -1,0 +1,48 @@
+
+{
+  "eventName": "Tech Talks Today",
+  "talks": [
+    {
+      "title": "The Future of Artificial Intelligence",
+      "speakers": ["Jane Doe"],
+      "category": ["AI", "Machine Learning"],
+      "duration": 60,
+      "description": "A deep dive into the latest advancements in AI and what to expect in the coming years."
+    },
+    {
+      "title": "Building Scalable Web Applications",
+      "speakers": ["John Smith", "Peter Jones"],
+      "category": ["Web Development", "Scalability"],
+      "duration": 60,
+      "description": "Learn the best practices for building web applications that can handle millions of users."
+    },
+    {
+      "title": "Cybersecurity in the Modern Age",
+      "speakers": ["Mary Johnson"],
+      "category": ["Cybersecurity", "Security"],
+      "duration": 60,
+      "description": "An overview of the current cybersecurity landscape and how to protect your systems."
+    },
+    {
+      "title": "The Rise of Serverless Computing",
+      "speakers": ["David Lee"],
+      "category": ["Serverless", "Cloud Computing"],
+      "duration": 60,
+      "description": "Discover the benefits of serverless architecture and how to get started."
+    },
+    {
+      "title": "A Practical Guide to DevOps",
+      "speakers": ["Susan Chen"],
+      "category": ["DevOps", "CI/CD"],
+      "duration": 60,
+      "description": "Learn how to implement DevOps principles in your organization for faster and more reliable software delivery."
+    },
+    {
+      "title": "The Power of Big Data Analytics",
+      "speakers": ["Michael Brown", "Emily White"],
+      "category": ["Big Data", "Data Analytics"],
+      "duration": 60,
+      "description": "Explore the tools and techniques for analyzing large datasets to gain valuable insights."
+    }
+  ]
+}
